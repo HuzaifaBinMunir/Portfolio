@@ -7,9 +7,10 @@ This is my portfolio website
 Run the following commands: 
 
 **1) npx create-next-app@latest my-portfolio** 
+
 **2) cd my-portfolio**
 
-### Error:
+### Error1:
 
 I got the following error 
 ![image](https://github.com/user-attachments/assets/e024d84f-e2c5-405b-a408-a9e5fb1bff0e)
@@ -25,9 +26,11 @@ Step 2: Clear npm cache
 
 Step 3: Verify 
 
-**npm -v
+**npm -v**
 
-npm install**
+**npm install**
+
+### Error2:
 
 I got the following error:
 ![image](https://github.com/user-attachments/assets/abda3de2-ec89-4c3b-a966-8b2d978b5252)
