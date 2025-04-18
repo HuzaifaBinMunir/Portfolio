@@ -26,10 +26,13 @@ Step 2: Clear npm cache
 Step 3: Verify 
 
 **npm -v
+
 npm install**
 
 I got the following error:
 ![image](https://github.com/user-attachments/assets/abda3de2-ec89-4c3b-a966-8b2d978b5252)
+
+
 
 
 
