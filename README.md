@@ -5,6 +5,7 @@ This is my portfolio website
 -> Install Next.js
 
 Run the following commands: 
+
 **1) npx create-next-app@latest my-portfolio** 
 **2) cd my-portfolio**
 
@@ -19,9 +20,11 @@ Step 1: Create the missing npm directory using the following command
 **mkdir C:\Users\huzai\AppData\Roaming\npm**
 
 Step 2: Clear npm cache
+
 **npm cache clean --force**
 
 Step 3: Verify 
+
 **npm -v
 npm install**
 
