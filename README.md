@@ -79,13 +79,26 @@ Step 3: Run:
 
 ![image](https://github.com/user-attachments/assets/6228b561-bc26-4168-a865-760a8d8c5fe5)
 
-Now it is running successfully 
+![image](https://github.com/user-attachments/assets/68f11eda-4530-4300-a5aa-f6c640a09d17)
+
+**NOTE**: If you want to terminate it press Ctrl + C in your terminal to stop the Next.js dev server.
+
+Now it is running successfully. 
 
 Go to **http://localhost:3000/** to verify. 
 
 ![image](https://github.com/user-attachments/assets/0935e3c7-8114-478d-8163-403456b032f8)
 
+I think it is 100% good now!
+The fact that I see this screen means:
 
+1) Next.js is running perfectly.
+2) Your development server is live at http://localhost:3000
+3) The terminal is supposed to keep running — it's not supposed to "end" like other one-time commands. It keeps running to:
+
+Watch for changes
+
+Auto-reload the browser when you update your code
 
 
 
