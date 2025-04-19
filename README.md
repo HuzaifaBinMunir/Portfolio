@@ -66,7 +66,10 @@ Here's what each selection means:
 
 **6) Turbopack:** Choose Yes (faster builds and better performance).
 
-**7) Customize import alias:** Choose Yes (custom shortcut paths for cleaner imports).
+**7) Customize import alias:** Write @/* (custom shortcut paths for cleaner imports).
+
+![image](https://github.com/user-attachments/assets/daa91455-369b-47bb-9045-1985b1e69cd4)
+
 
 
 
