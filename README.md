@@ -93,7 +93,7 @@ I think it is 100% good now!
 The fact that I see this screen means:
 
 1) Next.js is running perfectly.
-2) Your development server is live at http://localhost:3000
+2) My development server is live at http://localhost:3000
 3) The terminal is supposed to keep running — it's not supposed to "end" like other one-time commands. It keeps running to:
 
 Watch for changes
