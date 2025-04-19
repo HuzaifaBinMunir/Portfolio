@@ -102,6 +102,14 @@ Auto-reload the browser when you update your code
 
 ## Ticket 2: Define Folder Structure & Static Data
 
+-> Step1: Create folders inside src like components, assets and data. Run:
+
+**mkdir -p src/data**
+
+**mkdir -p src/components**
+
+**mkdir -p src/data**
+
 ![image](https://github.com/user-attachments/assets/6f355ceb-13c0-4e6b-9f30-543300ba31dd)
 
 
