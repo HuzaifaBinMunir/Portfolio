@@ -40,14 +40,6 @@ Step 1: Navigate to your project directory if already created otherwise run:
 
 **npx create-next-app@latest my-portfolio**
 
-Navigate into your newly created project folder. Run:
-
-**cd my-portfolio**
-
-Step 2: Run npm install again inside your project
-
-**npm install**
-
 While it is being downloaded you will be asked the following questions: 
 
 ![image](https://github.com/user-attachments/assets/9a441136-d432-4211-ace7-fdcecc76d65c)
@@ -69,6 +61,16 @@ Here's what each selection means:
 **7) Customize import alias:** Write @/* (custom shortcut paths for cleaner imports).
 
 ![image](https://github.com/user-attachments/assets/daa91455-369b-47bb-9045-1985b1e69cd4)
+
+Navigate into your newly created project folder. Run:
+
+**cd my-portfolio**
+
+Step 2: Run npm install again inside your project
+
+**npm install**
+
+![image](https://github.com/user-attachments/assets/f2684c93-a030-4718-8e56-23e2957732ca)
 
 
 
