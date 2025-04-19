@@ -1,7 +1,7 @@
 # Portfolio
 This is my portfolio website
 
-## Step 1: Project Initialization & Basic Setup
+## Ticket 1: Project Initialization & Basic Setup
 -> Install Next.js
 
 Run the following commands: 
@@ -100,6 +100,9 @@ Watch for changes
 
 Auto-reload the browser when you update your code
 
+## Ticket 2: Define Folder Structure & Static Data
+
+![image](https://github.com/user-attachments/assets/6f355ceb-13c0-4e6b-9f30-543300ba31dd)
 
 
 
