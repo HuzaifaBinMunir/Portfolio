@@ -73,6 +73,18 @@ Step 2: Run npm install again inside your project
 ![image](https://github.com/user-attachments/assets/f2684c93-a030-4718-8e56-23e2957732ca)
 
 
+Step 3: Run:
+
+**npm run dev**
+
+![image](https://github.com/user-attachments/assets/6228b561-bc26-4168-a865-760a8d8c5fe5)
+
+Now it is running successfully 
+
+Go to **http://localhost:3000/** to verify. 
+
+![image](https://github.com/user-attachments/assets/0935e3c7-8114-478d-8163-403456b032f8)
+
 
 
 
