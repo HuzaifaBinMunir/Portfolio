@@ -113,6 +113,8 @@ Auto-reload the browser when you update your code
 ![image](https://github.com/user-attachments/assets/6f355ceb-13c0-4e6b-9f30-543300ba31dd)
 
 
+->  Step 2: Create projects.ts file with your static data
+
 
 
 
