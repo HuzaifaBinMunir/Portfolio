@@ -114,6 +114,22 @@ Auto-reload the browser when you update your code
 
 
 ->  Step 2: Create projects.ts file with your static data
+![image](https://github.com/user-attachments/assets/4cdab61c-31a0-4299-8534-a2fd5893749c)
+
+Made a slight error here. I accidentally created projects.ts as a folder (directory), not a file — that’s why I was't able to open it in VS Code.
+
+NOTE: 
+a) I was trying to open the directory manually before to check by the cd command but it didn't work, so now I am using **"cd .."** command to go back to my main directory called my-portfolio.
+b) Now, I will remove the previously created erroneous folder by the command: **" rmdir src\data\projects.ts "** 
+c) Finally, create the file by using this command: "**New-Item -Path projects.ts -ItemType File"**
+![image](https://github.com/user-attachments/assets/7bda28d4-ddc0-4605-b19a-ac59e980e5f1)
+
+
+
+
+
+
+
 
 
 
