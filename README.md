@@ -124,7 +124,7 @@ b) Now, I will remove the previously created erroneous folder by the command: **
 c) Finally, create the file by using this command: "**New-Item -Path projects.ts -ItemType File"**
 ![image](https://github.com/user-attachments/assets/7bda28d4-ddc0-4605-b19a-ac59e980e5f1)
 
-
+## Ticket 3: Build Reusable Components
 
 
 
