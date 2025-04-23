@@ -139,5 +139,7 @@ d) Write the sample code as shown in my code files.
 See code files for code to replace in the page.tsc file in src/app/page.tsx
 
 ## Ticket 4 — Build the Home and About Pages
+->  Step 1: Create the About page with command **" mkdir app/about "**
+-> Step 2: Add navigation to your Header.tsx
 
 
