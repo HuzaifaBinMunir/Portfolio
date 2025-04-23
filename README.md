@@ -123,14 +123,21 @@ a) I was trying to open the directory manually before to check by the cd command
 b) Now, I will remove the previously created erroneous folder by the command: **" rmdir src\data\projects.ts "** 
 c) Finally, create the file by using this command: "**New-Item -Path projects.ts -ItemType File"**
 ![image](https://github.com/user-attachments/assets/7bda28d4-ddc0-4605-b19a-ac59e980e5f1)
+d) Write the sample code as shown in my code files. 
 
 ## Ticket 3: Build Reusable Components
 
+-> Step 1: Create Header.tsx by the command **"New-Item -Path Header.tsx -ItemType File"**
+-> Step 2: Create Footer.tsx by the command **"New-Item -Path Footer.tsx -ItemType File"** 
+-> Step 3: Create Layout.tsx by the command **"New-Item -Path Layout.tsx -ItemType File"**
+-> Write the sample code as shown in my code files.
 
+![image](https://github.com/user-attachments/assets/57b9ff5c-2ec6-4a45-a980-bec77fad2861)
+![image](https://github.com/user-attachments/assets/71994c10-4011-430d-bdf6-2311c46de62e)
 
+->Step 4: Step 4: Use Layout in Homepage
+See code files for code to replace in the page.tsc file in src/app/page.tsx
 
-
-
-
+## Ticket 4 — Build the Home and About Pages
 
 
