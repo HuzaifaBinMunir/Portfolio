@@ -142,4 +142,20 @@ See code files for code to replace in the page.tsc file in src/app/page.tsx
 ->  Step 1: Create the About page with command **" mkdir app/about "**
 -> Step 2: Add navigation to your Header.tsx
 
+## Ticket 5 - Projects Page
+-> Step 1: Create /projects Page ( In app/ folder Create a new folder called projects, inside that, create a file called ** page.tsx **)
+
+-> Step 2: Build the Basic Projects Page( Copy the code in my file page.tsx) 
+
+-> Step 3: Update Navigation (Add "Projects" Link)
+
+## Ticket 5 - Part2 Projects List
+
+-> Step 1: Create a new component — ProjectCard
+Inside your src/components/ folder, create a file::
+ProjectCard.tsx
+
+-> Step 2: Paste the code from my file
+
+-> Step 3: Update your projects/page.tsx file
 
